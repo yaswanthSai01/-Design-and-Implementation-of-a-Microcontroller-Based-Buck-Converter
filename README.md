@@ -76,7 +76,7 @@ The circuit is divided into **four main functional blocks**:
   - Buck output voltage (Vout)  
 
 > Example:  
-> ![Simulation Results](output-waveforms.png)
+> ![Simulation Results](output waveforms.png)
 
 ### ⚙️ Hardware Implementation
 - A prototype was built and tested on a hardware setup.
@@ -100,6 +100,4 @@ The circuit is divided into **four main functional blocks**:
 
 - PWM generation using **8051 timers**  
 - Interfacing **IR2110 gate driver** with microcontroller logic  
-- DC-DC buck converter design and component selection  
-- Importance of proper grounding and isolation in power circuits  
-
+- DC-DC buck converter design and component selection 
